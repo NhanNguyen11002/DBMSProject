@@ -1,0 +1,219 @@
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe.config
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\bin\Debug\QLRauMaVer1.pdb
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.AssemblyReference.cache
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.NhanVienHome.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_NV.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Properties.Resources.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.GenerateResource.cache
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.CoreCompileInputs.cache
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.exe
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.pdb
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DoiMK.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_ThuNgan.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe.config
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\bin\Debug\QLRauMaVer1.pdb
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DoiMK.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang_SuperAdmin.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.NhanVienHome.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_ThuNgan.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang_SuperAdmin.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Login.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV_SuperAdmin.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham_SuperAdmin.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher_SuperAdmin.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_NV.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Properties.Resources.resources
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.exe
+C:\Users\pc\OneDrive\Máy tính\Hệ quản trị cơ sở dữ liệu\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.pdb
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe.config
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\bin\Debug\QLRauMaVer1.pdb
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.AssemblyReference.cache
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DoiMK.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang_SuperAdmin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.NhanVienHome.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_ThuNgan.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang_SuperAdmin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Login.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV_SuperAdmin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham_SuperAdmin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher_SuperAdmin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_NV.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Properties.Resources.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.GenerateResource.cache
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.CoreCompileInputs.cache
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.exe
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.pdb
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_Admin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_SuperAdmin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Information.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver2\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Information_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe.config
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\bin\Debug\QLRauMaVer1.pdb
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.AssemblyReference.cache
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DoiMK.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.NhanVienHome.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_ThuNgan.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Information.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Information_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Login.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_Admin.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_NV.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Properties.Resources.resources
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.GenerateResource.cache
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.CoreCompileInputs.cache
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.exe
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.pdb
+D:\Năm 3\DBMS\do an cuoi ki\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.ThongKeDuLieu.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.AssemblyReference.cache
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DoiMK.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.NhanVienHome.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_ThuNgan.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Information.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Information_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Login.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Luong.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.ThongKeDuLieu.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_Admin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_NV.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Properties.Resources.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.GenerateResource.cache
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.CoreCompileInputs.cache
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.exe
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.pdb
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe.config
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe
+D:\Năm 3\DBMS\do an cuoi ki_ver2\QLRauMaVer1\bin\Debug\QLRauMaVer1.pdb
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe.config
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\bin\Debug\QLRauMaVer1.pdb
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DoiMK.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang_SuperAdmin.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.NhanVienHome.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_SuperAdmin.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_ThuNgan.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Information.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Information_SuperAdmin.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang_SuperAdmin.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Login.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Luong.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.ThongKeDuLieu.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV_SuperAdmin.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham_SuperAdmin.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher_SuperAdmin.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_Admin.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_NV.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.Properties.Resources.resources
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.exe
+C:\Users\pc\Downloads\do an cuoi ki_ver2\QLRauMaVer1\obj\Debug\QLRauMaVer1.pdb
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe.config
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\bin\Debug\QLRauMaVer1.pdb
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.AssemblyReference.cache
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DoiMK.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.NhanVienHome.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_ThuNgan.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Information.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Information_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Login.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Luong.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.ThongKeDuLieu.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher_SuperAdmin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_Admin.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_NV.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Properties.Resources.resources
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.GenerateResource.cache
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.CoreCompileInputs.cache
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.exe
+D:\Năm 3\DBMS\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.pdb
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe.config
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\bin\Debug\QLRauMaVer1.exe
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\bin\Debug\QLRauMaVer1.pdb
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.AssemblyReference.cache
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DoiMK.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.DonHang_SuperAdmin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.NhanVienHome.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_SuperAdmin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Home_ThuNgan.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Information.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Information_SuperAdmin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.KhachHang_SuperAdmin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Login.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Luong.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.ThongKeDuLieu.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.QLNV_SuperAdmin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.SanPham_SuperAdmin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.Voucher_SuperAdmin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_Admin.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Forms.XemThongTin_NV.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.Properties.Resources.resources
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.GenerateResource.cache
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.csproj.CoreCompileInputs.cache
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.exe
+C:\Nhan\Nam 3\Ki 1\CSDL\do an cuoi ki\Ver 5\do an cuoi ki_ver3\QLRauMaVer1\obj\Debug\QLRauMaVer1.pdb

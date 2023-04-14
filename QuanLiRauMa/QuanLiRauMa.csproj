@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{931CE2FE-2591-48C5-8609-DC7D43BE6614}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLRauMaVer1</RootNamespace>
+    <AssemblyName>QLRauMaVer1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connection\DBConnection.cs" />
+    <Compile Include="Connection\DonHangDAO.cs" />
+    <Compile Include="Connection\KhachHangDAO.cs" />
+    <Compile Include="Connection\LoginDB.cs" />
+    <Compile Include="Connection\LuongDao.cs" />
+    <Compile Include="Connection\QLNVDao.cs" />
+    <Compile Include="Connection\SanPhamDao.cs" />
+    <Compile Include="Connection\ThanhToanDAO.cs" />
+    <Compile Include="Connection\ThongKeDAO.cs" />
+    <Compile Include="Connection\VoucherDao.cs" />
+    <Compile Include="Forms\ConnectDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ConnectDB.Designer.cs">
+      <DependentUpon>ConnectDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DoiMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DoiMK.Designer.cs">
+      <DependentUpon>DoiMK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DonHang.Designer.cs">
+      <DependentUpon>DonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DonHang_SuperAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DonHang_SuperAdmin.Designer.cs">
+      <DependentUpon>DonHang_SuperAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Home_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Home_NV.Designer.cs">
+      <DependentUpon>Home_NV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Home_SuperAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Home_SuperAdmin.Designer.cs">
+      <DependentUpon>Home_SuperAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Home_ThuNgan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Home_ThuNgan.Designer.cs">
+      <DependentUpon>Home_ThuNgan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Information.Designer.cs">
+      <DependentUpon>Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Information_SuperAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Information_SuperAdmin.Designer.cs">
+      <DependentUpon>Information_SuperAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\KhachHang.Designer.cs">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\KhachHang_SuperAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\KhachHang_SuperAdmin.Designer.cs">
+      <DependentUpon>KhachHang_SuperAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Luong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Luong.Designer.cs">
+      <DependentUpon>Luong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ThongKeDuLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ThongKeDuLieu.Designer.cs">
+      <DependentUpon>ThongKeDuLieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\QLNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\QLNV.Designer.cs">
+      <DependentUpon>QLNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\QLNV_SuperAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\QLNV_SuperAdmin.Designer.cs">
+      <DependentUpon>QLNV_SuperAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SanPham.Designer.cs">
+      <DependentUpon>SanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SanPham_SuperAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SanPham_SuperAdmin.Designer.cs">
+      <DependentUpon>SanPham_SuperAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Voucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Voucher.Designer.cs">
+      <DependentUpon>Voucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Voucher_SuperAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Voucher_SuperAdmin.Designer.cs">
+      <DependentUpon>Voucher_SuperAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\XemThongTin_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\XemThongTin_Admin.Designer.cs">
+      <DependentUpon>XemThongTin_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\XemThongTin_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\XemThongTin_NV.Designer.cs">
+      <DependentUpon>XemThongTin_NV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\ConnectDB.resx">
+      <DependentUpon>ConnectDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DoiMK.resx">
+      <DependentUpon>DoiMK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DonHang.resx">
+      <DependentUpon>DonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DonHang_SuperAdmin.resx">
+      <DependentUpon>DonHang_SuperAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Home_NV.resx">
+      <DependentUpon>Home_NV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Home_SuperAdmin.resx">
+      <DependentUpon>Home_SuperAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Home_ThuNgan.resx">
+      <DependentUpon>Home_ThuNgan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Information.resx">
+      <DependentUpon>Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Information_SuperAdmin.resx">
+      <DependentUpon>Information_SuperAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\KhachHang.resx">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\KhachHang_SuperAdmin.resx">
+      <DependentUpon>KhachHang_SuperAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Luong.resx">
+      <DependentUpon>Luong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ThongKeDuLieu.resx">
+      <DependentUpon>ThongKeDuLieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\QLNV.resx">
+      <DependentUpon>QLNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\QLNV_SuperAdmin.resx">
+      <DependentUpon>QLNV_SuperAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SanPham.resx">
+      <DependentUpon>SanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SanPham_SuperAdmin.resx">
+      <DependentUpon>SanPham_SuperAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Voucher.resx">
+      <DependentUpon>Voucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Voucher_SuperAdmin.resx">
+      <DependentUpon>Voucher_SuperAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\XemThongTin_Admin.resx">
+      <DependentUpon>XemThongTin_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\XemThongTin_NV.resx">
+      <DependentUpon>XemThongTin_NV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Picture\editprofile.png" />
+    <Content Include="Picture\homepage.png" />
+    <Content Include="Picture\lock.png" />
+    <Content Include="Picture\profile.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
